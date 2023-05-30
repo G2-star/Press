@@ -5,7 +5,7 @@ title: AiLink
 titleTemplate: AiLink，与你一同链接未来
 
 hero:
-  name: ALink
+  name: AiLink
   text: 与你一同链接未来
   image:
     src: ./logo.png
