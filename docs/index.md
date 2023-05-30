@@ -20,6 +20,10 @@ hero:
     - theme: alt
       text: Demo
       link: https://www.im-ai.io/
+    - theme: alt
+      text: Demo2
+      link: https://www.im-ai.net/
+      
 
 features:
   - icon: 💡
